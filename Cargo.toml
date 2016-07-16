@@ -1,0 +1,6 @@
+[package]
+name = "aha"
+version = "0.1.0"
+authors = ["ebalund <ebaklund@hotmail.com>"]
+
+[dependencies]
